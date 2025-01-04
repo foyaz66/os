@@ -1,7 +1,5 @@
-[Desktop Entry]
-Version=1.0
-Type=Link
-Name=todo.csv
-Comment=
-Icon=user-bookmarks
-URL=https://github.com/foyaz66/Terminal-Based-To-Do-List/blob/main/todo.csv
+Task,Deadline,Priority
+ajsdf,2024-12-10,1
+sdf,asdf,3
+Breakfast,2024-12-10,2
+Gym,2024-12-10,2
